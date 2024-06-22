@@ -10,3 +10,9 @@ first{
 9-Submiting tasks.
 10-Using shutdown() to for ExecutorService.
 }
+
+second{
+1-Making a list using Collections.synchronizedList.
+2-Making a concurrentList list.
+3-Checking both threads and classes to see if they're thread safe or not.
+}
