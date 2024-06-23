@@ -25,4 +25,11 @@ third{
 5-Using awaitTermination() to make sure all the tasks are done.
 }
 
+fourth{
+1-Making a ExecutorService to have a thread pool.
+2-Making a List of Callabele Integers .
+3-Using an invokeAll() to execute tasks and writing the result in a List of Future Integers.
+4-Using isDone() or isCancelled() to get to the done tasks.
+5-Shuting down ExecutorService.
+}
 
