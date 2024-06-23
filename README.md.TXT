@@ -16,3 +16,13 @@ second{
 2-Making a concurrentList list.
 3-Checking both threads and classes to see if they're thread safe or not.
 }
+
+third{
+1-Making two AtomicInteger for successful or unsuccessful requests.
+2-Making a Runnable for making random successful or unsuccessful requests.
+3-Using an ExecutorService to submit some of the tasks.
+4-Shuting down ExecutorService.
+5-Using awaitTermination() to make sure all the tasks are done.
+}
+
+
