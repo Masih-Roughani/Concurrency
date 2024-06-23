@@ -27,9 +27,16 @@ third{
 
 fourth{
 1-Making a ExecutorService to have a thread pool.
-2-Making a List of Callabele Integers .
+2-Making a List of Callabele Integers.
 3-Using an invokeAll() to execute tasks and writing the result in a List of Future Integers.
 4-Using isDone() or isCancelled() to get to the done tasks.
 5-Shuting down ExecutorService.
 }
 
+fifth{
+1-Making an object of cache class.
+2-Using ReentrantReadWriteLock for locking the writer adn reader threads.
+3-Writing get and put methods using ReentrantReadWriteLock methods.
+4-Making writer and reader threads and running them.
+5-Using CountDownLatch to make sure writer threads have done the job.
+}
